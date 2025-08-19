@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <div align="center">
-  <img height="180" src="https://tenor.com/view/digital-skola-bertalenta-digital-data-enthusiast-data-science-data-engineer-gif-21582984" alt="Hi there!" />
+  <img height="180" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="Hi there!" />
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshman-1003&label=Profile%20views&color=0e75b6&style=flat" alt="lakshman-1003" /> </p>
   <br />
    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Lakshman+S;A+Passionate+Data+Scientist+%7C+ML+Engineer+from+India;Exploring+AI%2C+Cloud+%26+Scalable+Data+Solutions" />
